@@ -1,0 +1,6 @@
+.idea
+.pynb_checkpoints
+__pycache__
+venv
+PretendRuapehuEruption
+*.shp
